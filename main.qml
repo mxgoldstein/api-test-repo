@@ -3,6 +3,8 @@ import QtQuick.Controls.Material
 
 import Calculator 1.0
 
+syntax error 2
+
 ApplicationWindow {
     id: root
     width: 300
